@@ -1,0 +1,41 @@
+{
+    "Name": "Allen Institute Openscope - Measuring Stimulus-Evoked Neurophysiological Differentiation in Distinct Populations of Neurons in Mouse Visual Cortex",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Despite significant progress in understanding neural coding, it remains unclear how the coordinated activity of large populations of neurons relates to what an observer actually perceives. Since neurophysiological differences must underlie differences among percepts, differentiation analysis-quantifying distinct patterns of neurophysiological activity-has been proposed as an \"inside-out\" approach that addresses this question. This methodology contrasts with \"outside-in\" approaches such as feature tuning and decoding analyses, which are defined in terms of extrinsic experimental variables. Here, we used two-photon calcium imaging in mice of both sexes to systematically survey stimulus-evoked neurophysiological differentiation (ND) in excitatory neuronal populations in layers (L)2/3, L4, and L5 across five visual cortical areas (primary, lateromedial, anterolateral, posteromedial, and anteromedial) in response to naturalistic and phase-scrambled movie stimuli. We find that unscrambled stimuli evoke greater ND than scrambled stimuli specifically in L2/3 of the anterolateral and anteromedial areas, and that this effect is modulated by arousal state and locomotion. By contrast, decoding performance was far above chance and did not vary substantially across areas and layers. Differentiation also differed within the unscrambled stimulus set, suggesting that differentiation analysis may be used to probe the ethological relevance of individual stimuli.\n\nFor more details, consult the associated publication : https://doi.org/10.1523/eneuro.0280-21.2021",
+    "DatasetType": "raw",
+    "Authors": [
+        "Mayner, William G. P.",
+        "Marshall, William",
+        "Billeh, Yazan N.",
+        "Gandhi, Saurabh R.",
+        "Caldejon, Shiella",
+        "Cho, Andrew",
+        "Griffin, Fiona",
+        "Hancock, Nicole",
+        "Lambert, Sophie",
+        "Lee, Eric K.",
+        "Luviano, Jennifer A.",
+        "Mace, Kyla",
+        "Nayan, Chelsea",
+        "North, Kat",
+        "Seid, Sam",
+        "Williford, Ali",
+        "Cirelli, Chiara",
+        "Groblewski, Peter A.",
+        "Lecoq, Jerome",
+        "Nguyen, Thuyanh V.",
+        "Koch, Christof",
+        "Arkhipov, Anton",
+        "Tononi, Giulio"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
